@@ -13,8 +13,7 @@ body {
   text-align: center;
   color: rgba(95, 29, 29, 0.925);
   margin: 50px auto 30px;
-  background-color: rgba(131, 11, 168, 0.24);
   border-radius: 10px;
   /* box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px; */
-  box-shadow: -5px -5px 10px;
+  color: rgba(14, 92, 238, 0.952);
 }
