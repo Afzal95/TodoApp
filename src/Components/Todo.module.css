@@ -1,0 +1,24 @@
+.btn {
+  width: auto;
+  font-size: 20px;
+  padding: 5px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  box-shadow: -5px -5px 10px;
+  cursor: pointer;
+}
+.div {
+  min-width: 20%;
+  max-width: 40%;
+  text-align: center;
+  margin: 15px auto;
+  padding: 10px;
+  background-color: rgb(7, 121, 67);
+  border-radius: 15px;
+  /* box-shadow: rgba(0, 0, 0, 0.2) 0px 60px 40px -7px; */
+  box-shadow: -5px -5px 10px;
+  text-decoration: line-through;
+  text-decoration-color: red;
+  text-decoration-thickness: 2px;
+}

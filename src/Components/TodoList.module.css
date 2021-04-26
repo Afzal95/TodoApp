@@ -1,0 +1,36 @@
+.list {
+  width: 70%;
+  display: flex;
+  padding: 10px;
+  margin: 5px auto;
+}
+
+.div {
+  display: flex;
+  min-width: 20%;
+  max-width: 40%;
+  align-items: center;
+  margin: 1px auto 15px;
+  background-color: rgb(185, 207, 123);
+  border-radius: 15px;
+  box-shadow: -5px -5px 10px;
+}
+.strike {
+  text-decoration: line-through;
+  text-decoration-color: red;
+  text-align: left;
+  flex-wrap: wrap;
+  text-decoration-thickness: 2px;
+}
+.btn {
+  position: absolute;
+  right: 350px;
+  width: auto;
+  font-size: 20px;
+  padding: 2px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  background-color: rgba(223, 47, 47, 0.911);
+  box-shadow: -5px -5px 10px;
+}
